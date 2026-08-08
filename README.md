@@ -1,16 +1,74 @@
-# React + Vite
+# IEEE Computer Society SBC — NSSCE
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, interactive website designed for the **IEEE Computer Society Student Branch Chapter (SBC) at NSS College of Engineering, Palakkad**.
 
-Currently, two official plugins are available:
+The website presents the chapter's activities, events, projects, community, and opportunities for students to learn, build, and connect.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Modern responsive landing page
+- IEEE Computer Society themed design
+- Smooth scrolling navigation
+- Interactive navigation bar
+- Responsive mobile menu
+- Scroll-based reveal animations
+- Animated hero section
+- Interactive hover effects
+- Technology/project marquee
+- Animated project showcase
+- Events and activities section
+- Community section
+- Call-to-action section
+- Responsive design for desktop, tablet, and mobile
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the Oxlint configuration
+- **React.js** — UI development
+- **Vite** — Development and build tool
+- **JavaScript (ES6+)** — Application logic
+- **CSS3** — Styling, animations, and responsive design
+- **Lucide React** — Icons
+- **Google Fonts** — Typography
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🎨 Design
+
+The website uses a dark, technology-focused visual style with a maroon and red color palette.
+
+### Color Palette
+
+| Color | Hex |
+|---|---|
+| Dark Maroon | `#420516` |
+| Maroon | `#7D1935` |
+| Crimson | `#B42B51` |
+| Accent Red | `#E63E6D` |
+
+The design combines:
+
+- Bold typography
+- Minimal layouts
+- Glowing accents
+- Grid patterns
+- Orbital animations
+- Interactive cards
+- Smooth transitions
+
+## 📂 Project Structure
+
+```text
+ieee-computer-society-website/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
