@@ -72,3 +72,23 @@ ieee-computer-society-website/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+
+## 🚀 Getting Started
+
+Follow the steps below to set up and run the project locally.
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+
+- Node.js (v18 or later recommended)
+- npm (comes with Node.js)
+- Git
+- Visual Studio Code (recommended)
+
+You can verify the installations using:
+
+```bash
+node --version
+npm --version
+git --version
