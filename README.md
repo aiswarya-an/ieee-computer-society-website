@@ -72,6 +72,7 @@ ieee-computer-society-website/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+```
 
 ## Getting Started
 
@@ -92,3 +93,100 @@ You can verify the installations using:
 node --version
 npm --version
 git --version
+```
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/aiswarya-an/ieee-computer-society-website.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd ieee-computer-society-website
+```
+
+### 3. Install Dependencies
+
+Install the required project dependencies:
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+Run the following command:
+
+```bash
+npm run dev
+```
+
+Vite will start the development server and provide a local URL, usually:
+
+```text
+http://localhost:5173
+```
+
+Open the URL in your browser to view the website.
+
+### 5. Build for Production
+
+To create an optimized production build:
+
+```bash
+npm run build
+```
+
+The production files will be generated inside the `dist/` directory.
+
+### 6. Preview the Production Build
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## Available Scripts
+
+| Command | Description |
+|---|---|
+| `npm install` | Install project dependencies |
+| `npm run dev` | Start the development server |
+| `npm run build` | Create the production build |
+| `npm run preview` | Preview the production build |
+
+## Updating the Project
+
+After making changes to the project, use the following commands to update the GitHub repository:
+
+```bash
+git status
+git add .
+git commit -m "Update website"
+git push
+```
+
+## Deployment
+
+The project can be deployed using platforms such as **Vercel** or **Netlify**.
+
+Before deployment, make sure the production build completes successfully:
+
+```bash
+npm run build
+```
+
+## Notes
+
+- Do not commit the `node_modules/` folder.
+- Do not commit sensitive credentials or environment variables.
+- The `.gitignore` file is included to prevent unnecessary files from being uploaded.
+- Run `npm install` after cloning the repository.
+- Use `npm run dev` to start local development.
+
+## License
+
+This project was developed for the **IEEE Computer Society Student Branch Chapter, NSS College of Engineering, Palakkad**.
