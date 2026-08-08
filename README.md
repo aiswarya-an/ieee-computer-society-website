@@ -4,7 +4,7 @@ A modern, interactive website designed for the **IEEE Computer Society Student B
 
 The website presents the chapter's activities, events, projects, community, and opportunities for students to learn, build, and connect.
 
-## ✨ Features
+## Features
 
 - Modern responsive landing page
 - IEEE Computer Society themed design
@@ -21,7 +21,7 @@ The website presents the chapter's activities, events, projects, community, and 
 - Call-to-action section
 - Responsive design for desktop, tablet, and mobile
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React.js** — UI development
 - **Vite** — Development and build tool
@@ -30,7 +30,7 @@ The website presents the chapter's activities, events, projects, community, and 
 - **Lucide React** — Icons
 - **Google Fonts** — Typography
 
-## 🎨 Design
+## Design
 
 The website uses a dark, technology-focused visual style with a maroon and red color palette.
 
@@ -53,7 +53,7 @@ The design combines:
 - Interactive cards
 - Smooth transitions
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ieee-computer-society-website/
@@ -73,7 +73,7 @@ ieee-computer-society-website/
 ├── vite.config.js
 └── README.md
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow the steps below to set up and run the project locally.
 
